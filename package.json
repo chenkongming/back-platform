@@ -11,7 +11,9 @@
     "build": "node build/build.js"
   },
   "dependencies": {
+    "js-cookie": "^2.2.0",
     "node-sass": "^4.8.3",
+    "nprogress": "^0.2.0",
     "sass-loader": "^6.0.7",
     "vue": "^2.5.2",
     "vue-router": "^3.0.1"
